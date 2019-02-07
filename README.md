@@ -1,5 +1,5 @@
 # mysql_with_docker_compose
-How to start MySQL using docker-compose.
+How to start MySQL using docker-compose.(The simplest configuration)
 
 ## Usage
 start
