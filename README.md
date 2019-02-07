@@ -1,7 +1,7 @@
 # mysql_with_docker_compose
 docker-composeを利用したMySQL起動方法メモ。
 
-##Usage
+## Usage
 起動
 ```bash
 docker-compose up -d --build
