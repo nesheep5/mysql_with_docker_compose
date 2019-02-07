@@ -1,17 +1,17 @@
 # mysql_with_docker_compose
-docker-composeを利用したMySQL起動方法メモ。
+How to start MySQL using docker-compose.
 
 ## Usage
-起動
+start
 ```bash
 docker-compose up -d --build
 ```
-接続
+connect
 ```
 mysql -uroot --protocol=TCP
 ```
 
-停止
+stop
 ```
 docker-compose down -v
 ```
